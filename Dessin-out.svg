@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg'>
+	<ellipse cx='50.0' cy='250.0' rx='27.0' ry='15.0' fill='none' stroke='#000000'/>
+	<ellipse cx='250.0' cy='50.0' rx='17.0' ry='25.0' fill='none' stroke='#ff0000'/>
+	<circle cx='250.0' cy='250.0' r='25.0' fill='none' stroke='#0000ff'/>
+	<circle cx='50.0' cy='50.0' r='35.0' fill='none' stroke='#00ff00'/>
+	<line x1='50.0' y1='50.0' x2='250.0' y2='250.0' fill='none' stroke='#ff00ff'/>
+	<line x1='250.0' y1='50.0' x2='50.0' y2='250.0' fill='none' stroke='#00ffff'/>
+</svg>
